@@ -1,4 +1,4 @@
-# cnn-classfication-deep-learning-neural-networks
+# CNN
 ## Used frameworks tensorflow keras.
 - For the training  dataset get it from `kaggle`datasets
 - you can improve it  more fine tune it  for better results.
