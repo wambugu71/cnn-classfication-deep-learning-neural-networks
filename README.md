@@ -19,7 +19,8 @@ pip install tensorflow-gpu
 ```
 For intel based GPU:
 ``` Bash
-pip install tensorflow-directml
+pip install tensorflow-directml-plugin
 ```
-Classification deep learning by @ wambugu kinyua
+Classification deep learning by
+` @ wambugu kinyua `
 
